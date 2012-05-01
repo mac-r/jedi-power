@@ -13,6 +13,10 @@
 <meta name="title" content="Measure Your Jedi Power" />
 <meta name="description" content="Jedi Power - measure your universal power and improve it. Be among the heroes of the Solar System!" />
 <link rel="image_src" href="http://mac-r.github.com/jedi-power/chuck/star_wars.png" />
+<head profile="http://www.w3.org/2005/10/profile">
+<link rel="icon" 
+      type="image/png" 
+      href="favicon.png">
 <SCRIPT language=JavaScript type=text/javascript>
 
 //fades layer in
