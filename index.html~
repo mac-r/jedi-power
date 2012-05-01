@@ -868,10 +868,10 @@ style="LEFT: 70px; WIDTH: 60px; POSITION: absolute; TOP: 70px; HEIGHT: 60px; BAC
 <p style="margin-top:50%;font-size:30px;font-family:arial;font-weight:bold;color:white;">Click here to start</p></div>
 <div id="toggleText" style="display:none;z-index:1;background-color:grey;position:absolute;left:0px;top:0px;width:460px;height:460px;opacity: 0.8;text-align:center; vertical-align:middle;" onclick='play=1;document.location.reload();'><p id="chuck_meterTop" style="font-family:arial;font-weight:bold;color:yellow;font-size:65px;">Your Jedi Power is: 0%</p>
 <div style="font-family:arial;color:white;font-size:25px;margin-bottom:10px;">Share this goodness:</div>
-<div><span class='st_facebook_large' st_summary='Jedi Power - measure your universal power and improve it. Be among the heroes of the Solar System!' st_image='http://mac-r.github.com/jedi-power/chuck/star_wars.png' ></span>
-<span class='st_twitter_large' displayText='Tweet' st_summary='Jedi Power - measure your universal power and improve it. Be among the heroes of the Solar System!' st_image='http://mac-r.github.com/jedi-power/chuck/star_wars.png'></span>
-<span class='st_vkontakte_large' displayText='Vkontakte' st_summary='Jedi Power - measure your universal power and improve it. Be among the heroes of the Solar System!' st_image='http://mac-r.github.com/jedi-power/chuck/star_wars.png'></span>
-<span class='st_pinterest_large' displayText='Pinterest' st_summary='Jedi Power - measure your universal power and improve it. Be among the heroes of the Solar System!' st_image='http://mac-r.github.com/jedi-power/chuck/star_wars.png'></span></div>
+<div><span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_twitter_vcount' displayText='Tweet'></span>
+<span class='st_googleplus_vcount' displayText='Google +'></span>
+<span class='st_vkontakte_vcount' displayText='Vkontakte'></span></div>
 <p style="margin-top:10%;font-size:30px;font-family:arial;font-weight:bold;color:white;">Train to get more!</p></div>
 <br><br><div style="font-family:arial;color:yellow;font-size:14;text-align: center;width:250px;">Based on the NASA pilot reaction assesment test. Deterministic behaviour of asteroids was fully modified to the random walk process.<div> No scenarious are repeated.</div></div>
 <div style="font-family:arial;color:yellow;font-size:14;text-align: center;width:250px;">(c) 2012, by <a style="color:white" href="http://twitter.com/makarochkin">Maxim Makarochkin</a></div>
