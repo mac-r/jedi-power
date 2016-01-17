@@ -1,6 +1,6 @@
 # Jedi Power
 
-This is the rep of Jedi Power. I wrote this online game in a couple of hours as a way to entertain myself while doing research paper of stochastic modelling.
+This is the rep of Jedi Power. I wrote this online game in a couple of hours as a way to entertain myself while doing research of stochastic modelling.
 
 [Play the Game](http://mac-r.github.com/jedi-power/ "Jedi Power")
 
